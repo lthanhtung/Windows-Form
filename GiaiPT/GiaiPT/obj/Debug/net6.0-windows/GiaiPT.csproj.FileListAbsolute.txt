@@ -1,0 +1,17 @@
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\bin\Debug\net6.0-windows\GiaiPT.exe
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\bin\Debug\net6.0-windows\GiaiPT.deps.json
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\bin\Debug\net6.0-windows\GiaiPT.runtimeconfig.json
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\bin\Debug\net6.0-windows\GiaiPT.dll
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\bin\Debug\net6.0-windows\GiaiPT.pdb
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.csproj.AssemblyReference.cache
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.Form1.resources
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.csproj.GenerateResource.cache
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.AssemblyInfoInputs.cache
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.AssemblyInfo.cs
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.csproj.CoreCompileInputs.cache
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.dll
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\refint\GiaiPT.dll
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.pdb
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\GiaiPT.genruntimeconfig.cache
+D:\HUONGDOITUONG\VS\GiaiPT\GiaiPT\obj\Debug\net6.0-windows\ref\GiaiPT.dll

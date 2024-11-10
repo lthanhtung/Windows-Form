@@ -1,0 +1,17 @@
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\bin\Debug\net6.0-windows\xulyanh.exe
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\bin\Debug\net6.0-windows\xulyanh.deps.json
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\bin\Debug\net6.0-windows\xulyanh.runtimeconfig.json
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\bin\Debug\net6.0-windows\xulyanh.dll
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\bin\Debug\net6.0-windows\xulyanh.pdb
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.csproj.AssemblyReference.cache
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.Form1.resources
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.csproj.GenerateResource.cache
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.AssemblyInfoInputs.cache
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.AssemblyInfo.cs
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.csproj.CoreCompileInputs.cache
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.dll
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\refint\xulyanh.dll
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.pdb
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\xulyanh.genruntimeconfig.cache
+D:\HUONGDOITUONG\VS\xulyanh\xulyanh\obj\Debug\net6.0-windows\ref\xulyanh.dll
